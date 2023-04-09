@@ -1,5 +1,5 @@
 <h1>
-  <img src="/src/assets/Logo.svg"/>
+  <img src="/src/assets/Logo.svg" width="32px" height="32px"/>
   Ignite Timer
 </h1>
 
