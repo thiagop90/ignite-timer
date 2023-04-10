@@ -1,9 +1,9 @@
 <h1>
-  <img src="/src/assets/Logo.svg" width="32px" height="32px"/>
+  <img src="/src/assets/Logo.svg" width="24px" height="24px"/>
   Ignite Timer
 </h1>
 
-Front-end do apliativo desenvolvido no módulo 02 da jornada Ignite [Rocketseat Ignite](https://www.rocketseat.com.br/ignite).
+Front-end do aplicativo desenvolvido no módulo 02 da jornada Ignite [Rocketseat Ignite](https://www.rocketseat.com.br/ignite).
 
 <img src=".github/capa.png" width="100%"/>
 
@@ -15,7 +15,7 @@ Este front-end apresenta as ferramentas e práticas mais recentes em desenvolvim
 - 💅 **CSS** — styled-components
 - 💖 **Lint** — ESlint/Prettier/Editor Config
 
-Eu usei outras bibliotecas tambem, como:
+Eu usei outras bibliotecas também, como:
 
 - **react-router** — roteamento padrão do React
 - **date-fns** — para datas
@@ -24,7 +24,7 @@ Eu usei outras bibliotecas tambem, como:
 
 ## Projeto 
 
-Nesse projeto, foi desenvolvido uma aplicação completa com roteamentos e diversos conceitos importante do ecossistema React como:
+Nesse projeto, foi desenvolvido uma aplicação completa com roteamentos e diversos conceitos importantes do ecossistema React como:
 
 - Hook Form
 - ContextAPI
